@@ -2,4 +2,4 @@
 
 <img width="1479" height="870" alt="Screenshot 2025-12-08 154309" src="https://github.com/user-attachments/assets/618d762f-4d24-41f4-a746-359fa7323cf8" />
 
-https://colab.research.google.com/drive/1h_5oI80YrJU1C4o0sTAmedOA2qo8GBy1?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1h_5oI80YrJU1C4o0sTAmedOA2qo8GBy1?usp=sharing
